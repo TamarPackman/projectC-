@@ -4,6 +4,7 @@ using System.Net;
 using System.Security.Cryptography;
 
 
+
 namespace DalTest;
 
 public static  class Initialization
@@ -27,9 +28,9 @@ private static IDal s_dal ;
     300,
      9));
     }
-    public static  void initialize(IDal dal)
+    public static  void initialize()
     {
-      s_dal = dal;  
+      s_dal = DalApi.Factory.Get;  
         createCustomer();
         createProduct();
         createSale ();
