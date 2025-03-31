@@ -25,8 +25,9 @@ internal class ProductImplementation:Iproduct
         Product p = DataSource.products.FirstOrDefault(item => item._id == id);
         if (p != null)
         {
-            return p;
+            
             LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצר נקרא בהצלחה");
+            return p;
         }
            
 

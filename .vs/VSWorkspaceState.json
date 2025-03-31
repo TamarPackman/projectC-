@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\DotNet2025_9913_4233",
+    "\\DotNet2025_9913_4233\\DalList",
     "\\DotNet2025_9913_4233\\DalList\\obj",
     "\\DotNet2025_9913_4233\\DalTest"
   ],
-  "SelectedNode": "\\DotNet2025_9913_4233\\DotNet2025_9913_4233_0595.sln",
+  "SelectedNode": "\\DotNet2025_9913_4233\\DalTest\\Initialization.cs",
   "PreviewInSolutionExplorer": false
 }

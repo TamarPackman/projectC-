@@ -9,7 +9,7 @@ namespace DalTest;
 
 public static  class Initialization
 {
-private static IDal s_dal ;
+    private static IDal s_dal;
 
     private static void createCustomer()
     {
@@ -17,7 +17,7 @@ private static IDal s_dal ;
     }
     private static void createSale()
     {
-        s_dal.Sale.Create(new Sale(0,456, 5, 56.9, true, new DateTime(), new DateTime()));
+        s_dal.Sale.Create(new Sale(0,456, 5, 56.9, true, new DateTime(2025,3,20), new DateTime(2025, 4, 1)));
     }
 
     private static void createProduct()

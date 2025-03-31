@@ -20,8 +20,8 @@ internal class CustomerImplementation:Icustomer
        Customer c= DataSource.customers.FirstOrDefault(item => item._idCard == id);
           if(c!=null)
         {
-            return c;
             LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "קריאת הלקוחות התקבלה התבצעה בהצלחה");
+            return c;
         }
            
 
