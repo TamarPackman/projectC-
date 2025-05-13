@@ -14,4 +14,9 @@ public class DalIdExist : Exception
     public DalIdExist(string message) : base(message) { }
 
 }
+public class DalProductIdDeasntExist : Exception
+{
+    public DalProductIdDeasntExist(string message) : base(message) { }
+
+}
 

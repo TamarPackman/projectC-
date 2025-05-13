@@ -21,6 +21,12 @@ public class  Order
         this.ProductList = productList;
         this.FinalPrice = finalPrice;
     }
+    public Order(bool favoriteCustomer)
+    {
+        this.FavoriteCustomer = favoriteCustomer;
+
+        this.ProductList = new List<ProductInOrder>();
+    }
 
     public override string ToString() => Tools.ToStringProperty(this);
 }

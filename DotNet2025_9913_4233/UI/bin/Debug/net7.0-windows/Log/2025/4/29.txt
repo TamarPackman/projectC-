@@ -1,0 +1,7 @@
+29/04/2025 16:09:54	DalList.Dal.ProductImplementation:	המוצרים נקראו בהצלחה
+29/04/2025 16:10:10	DalList.Dal.ProductImplementation:	המוצר התוסף בהצלחה
+29/04/2025 16:10:18	DalList.Dal.ProductImplementation:	המוצרים נקראו בהצלחה
+29/04/2025 16:10:19	DalList.Dal.ProductImplementation:	המוצרים נקראו בהצלחה
+29/04/2025 16:10:20	DalList.Dal.ProductImplementation:	המוצרים נקראו בהצלחה
+29/04/2025 16:10:21	DalList.Dal.ProductImplementation:	המוצרים נקראו בהצלחה
+29/04/2025 20:26:22	DalList.Dal.ProductImplementation:	המוצרים נקראו בהצלחה

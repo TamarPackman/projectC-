@@ -48,8 +48,7 @@ internal class CustomerImplementation : BlApi.ICustomers
         try
         {
             DO.Customer doCustomer = _dal.Customer.Read(id);
-            if (doCustomer == null)
-                return null;
+           
             return new BO.Customer(doCustomer._idCard, doCustomer._phone, doCustomer._address, doCustomer._customerName);
         }
         catch (DalNotFoundId exception) { throw new BlNotFoundId("id deant exist", exception); }

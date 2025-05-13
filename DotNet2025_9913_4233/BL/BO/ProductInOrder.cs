@@ -19,7 +19,6 @@ public record ProductInOrder
 
     public ProductInOrder()
     {
-        
     }
     public ProductInOrder(int productInOrderId, string productName, double basePrice, int quantity, double finalPrice)
     {

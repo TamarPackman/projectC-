@@ -29,3 +29,12 @@ public class BlInvalidQuantityException : Exception
     public BlInvalidQuantityException(string message, Exception innerException)
         : base(message, innerException) { }
 }
+[Serializable]
+public class BlProductIdDeasntExist : Exception
+{
+
+    public BlProductIdDeasntExist(string message) : base(message) { }
+
+    public BlProductIdDeasntExist(string message, Exception innerException)
+        : base(message, innerException) { }
+}

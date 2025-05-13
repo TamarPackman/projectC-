@@ -35,11 +35,11 @@ namespace BlImplementation
         {
             try
             {
-                _dal.Customer.Delete(id);
+                _dal.Product.Delete(id);
             }
             catch (DalNotFoundId e)
             {
-                throw new BlNotFoundId("id deant exist", e);
+                throw new BlNotFoundId("id deasnt exist", e);
             }
 
         }
@@ -49,14 +49,14 @@ namespace BlImplementation
         {
             try
             {
-                DO.Product doCustomer = _dal.Product.Read(id);
-                if (doCustomer == null)
+                DO.Product? doProducts = _dal.Product.Read(id);
+                if (doProducts == null)
                     return null;
-                return new BO.Product(doCustomer._id,
-     doCustomer._nameProduct,
-   (BO.CategoryName)(int)doCustomer._category,
-     doCustomer._price,
-    doCustomer._quantityInStock, new List<BO.SaleInProduct>()
+                return new BO.Product(doProducts._id,
+     doProducts._nameProduct,
+   (BO.CategoryName)(int)doProducts._category,
+     doProducts._price,
+    doProducts._quantityInStock
     );
             }
             catch (DalNotFoundId e) { throw new BlNotFoundId("id deant exist", e); }
@@ -70,9 +70,8 @@ namespace BlImplementation
      p._nameProduct,
    (BO.CategoryName)(int)p._category,
      p._price,
-    p._quantityInStock, new List<BO.SaleInProduct>()))
+    p._quantityInStock))
             .ToList();
-
             if (filter == null)
                 return productsBo;
             return productsBo.Where(filter).ToList();
@@ -105,7 +104,12 @@ namespace BlImplementation
         BO.Product? IProduct.Read(Func<BO.Product, bool> filter)
         {
             List<BO.Product> productsBo = ReadAll();
-            return productsBo.FirstOrDefault(c => filter(c));
+            BO. Product? p= productsBo.FirstOrDefault(c => filter(c));
+            if (p != null)
+                return p;
+            else
+                throw new BlNotFoundId("id deasnt exist");
+
         }
         
     }

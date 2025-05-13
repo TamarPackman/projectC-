@@ -14,3 +14,35 @@ C:\Users\This User\Desktop\c#\פרויקט\DotNet2025_9913_4233\BlTest\obj\Debug
 C:\Users\This User\Desktop\c#\פרויקט\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.pdb
 C:\Users\This User\Desktop\c#\פרויקט\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
 C:\Users\This User\Desktop\c#\פרויקט\DotNet2025_9913_4233\BlTest\obj\Debug\ref\BlTest.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\bin\BlTest.exe
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\bin\BlTest.deps.json
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\bin\BlTest.runtimeconfig.json
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\bin\BlTest.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\bin\BlTest.pdb
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\BlTest\obj\Debug\refint\BlTest.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.pdb
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\BlTest\obj\Debug\ref\BlTest.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.csproj.CopyComplete
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\BlTest.exe
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\BlTest.deps.json
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\BlTest.runtimeconfig.json
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\BlTest.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\BlTest.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.csproj.CopyComplete
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BlTest\obj\Debug\refint\BlTest.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BlTest\obj\Debug\ref\BlTest.dll

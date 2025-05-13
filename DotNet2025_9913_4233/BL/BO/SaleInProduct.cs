@@ -1,28 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BO;
-
-public record SaleInProduct
-(
-
-   int saleId,
-   int quantityForSale,
-   double Price,
-  bool isSaleForAllCustomers
-)
+﻿namespace BO
 {
-
-    public SaleInProduct() : this(0, 0,  0,false)
+    public class SaleInProduct
     {
+        public int saleId { get; set; }
+        public int quantityForSale { get; set; }
+        public double Price { get; set; }
+        public bool isSaleForAllCustomers { get; set; }
 
+        // בנאי ברירת מחדל
+        public SaleInProduct()
+        {
+            saleId = 0;
+            quantityForSale = 0;
+            Price = 0;
+            isSaleForAllCustomers = false;
+        }
+        public SaleInProduct(int saleId, int quantityForSale, double Price, bool isSaleForAllCustomers)
+        {
+           this. saleId = saleId;
+           this. quantityForSale = quantityForSale;
+           this. Price = Price;
+           this. isSaleForAllCustomers = isSaleForAllCustomers;
+        }
+        // Override של ToString
+        public override string ToString() => Tools.ToStringProperty(this);
     }
-
-
-    public override string ToString() => Tools.ToStringProperty(this);
-
-
 }

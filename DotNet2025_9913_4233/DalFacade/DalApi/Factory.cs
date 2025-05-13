@@ -13,6 +13,7 @@ public static class Factory
         get
 
         {
+            
 
             string dalType = s_dalName ?? throw new DalConfigException($"DAL name is not extracted from the configuration");
 

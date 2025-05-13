@@ -1,22 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BO
 {
-    public record Customer(int _idCard, string? _phone, string? _address, string _customerName)
+    public class Customer
     {
+        public int _idCard { get; set; }
+        public string? _phone { get; set; }
+        public string? _address { get; set; }
+        public string _customerName { get; set; }
 
-        //ctor func
-        public Customer() : this(0, "", "", "")
+        // ctor func
+        public Customer()
         {
-
+            _idCard = 0;
+            _phone = "";
+            _address = "";
+            _customerName = "";
         }
 
-        public override string ToString() =>Tools.ToStringProperty(this);
-
-
+        public Customer(int idCard, string? phone, string? address, string customerName)
+        {
+            _idCard = idCard;
+            _phone = phone;
+            _address = address;
+            _customerName = customerName;
+        }
     }
 }

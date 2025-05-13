@@ -24,6 +24,10 @@ public int Create(BO.Sale s)
     {
             throw new BlIdExist("id is exist", exception);
         }
+        catch(DalProductIdDeasntExist ex)
+        {
+            throw new BlProductIdDeasntExist("product id deasnt exist", ex);
+        }
 }
 
 public void Delete(int id)
@@ -74,7 +78,7 @@ public List<BO.Sale?> ReadAll(Func<BO.Sale, bool>? filter = null)
         {
             throw new BlIdExist("id is exist", e);
         }
-        catch (DalNotFoundId e) { throw new BlNotFoundId("id deant exist", e); }
+        catch (DalNotFoundId e) { throw new BlNotFoundId("id deasnt exist", e); }
     }
    
     BO.Sale? ISale.Read(Func<BO.Sale, bool> filter)

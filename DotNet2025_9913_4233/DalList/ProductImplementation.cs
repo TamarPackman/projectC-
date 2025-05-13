@@ -9,15 +9,16 @@ internal class ProductImplementation:Iproduct
 {
     public int Create(Product item)
     {
-        if (DataSource.products.Any(product => product._id == item._id))
+        Product p = item with { _id = DataSource.Config.StaticId };
+        if (DataSource.products.Any(product => product._id == p._id))
         {
             throw new DalIdExist("⚠️ שגיאה: לא ניתן להוסיף את המוצר. מוצר עם אותם פרטים כבר קיים במערכת.\r\nאנא בדוק את הנתונים ונסה שוב או צור קשר עם התמיכה הטכנית.");
 
         }
         LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצר התוסף בהצלחה");
 
-        DataSource.products.Add(item);
-        return item._id;
+        DataSource.products.Add(p);
+        return p._id;
 
     }
     public Product? Read(int id)
@@ -29,17 +30,17 @@ internal class ProductImplementation:Iproduct
             LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצר נקרא בהצלחה");
             return p;
         }
-           
-
-
-       
         throw new DalNotFoundId("מוצר זה לא קיים");
     }
   public  Product? Read(Func<Product, bool> filter)
     {
-        LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצר נקרא בהצלחה");
-        return DataSource.products.FirstOrDefault(filter);
-
+          Product p= DataSource.products.FirstOrDefault(filter);
+        if(p!=null)
+        {
+            LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצר נקרא בהצלחה");
+            return p;
+        }
+        throw new DalNotFoundId("מוצר זה לא קיים");
 
     }
   public List<Product> ReadAll(Func<Product, bool>? filter = null)
@@ -51,19 +52,17 @@ internal class ProductImplementation:Iproduct
     }
     public void Update(Product item)
     {
-        if (Read(item._id) != null)
+        Product? product = Read(item._id);
+        if (product != null)
         {
-            Delete(item._id);
-            Create(item);
+            product = item;
             LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצר התעדכן בהצלחה");
         }
     }
     public void Delete(int id)
     {
-        if (Read(id) != null)
-        {
             DataSource.products.Remove(Read(id));
             LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצר נמחק בהצלחה");
-        }
+        
     }
 }

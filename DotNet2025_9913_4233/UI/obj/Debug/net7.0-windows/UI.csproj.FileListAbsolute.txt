@@ -1,0 +1,130 @@
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.Form1.resources
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.productsMenu.resources
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.AssemblyInfo.cs
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\UI.exe
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\UI.deps.json
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\UI.runtimeconfig.json
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\UI.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\UI.pdb
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\BL.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\DalFacade.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\DalList.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Tools.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\BL.pdb
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\DalFacade.pdb
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\DalList.pdb
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Tools.pdb
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.csproj.CopyComplete
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\refint\UI.dll
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.pdb
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.genruntimeconfig.cache
+C:\Users\This User\Desktop\גרסה לפני DB\projectC--main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\ref\UI.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\UI.exe
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\UI.deps.json
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\UI.runtimeconfig.json
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\UI.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\UI.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\BL.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\DalFacade.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\DalList.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Tools.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\BL.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\DalFacade.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\DalList.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\bin\Debug\net7.0-windows\Tools.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.Form1.resources
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.productsMenu.resources
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.AssemblyInfo.cs
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.csproj.CopyComplete
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\refint\UI.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.genruntimeconfig.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\ref\UI.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.saleMenu.resources
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.customerMenu.resources
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.newOrder.resources
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\UI\obj\Debug\net7.0-windows\UI.club.resources

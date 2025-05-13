@@ -14,11 +14,9 @@ namespace BlImplementation;
 internal class OrderImplementation : BlApi.IOrder
 {
     private DalApi.IDal _dal = DalApi.Factory.Get;
-    public void SearchSaleForProduct(ProductInOrder productInOrder,bool favoriteCustomer)
+    public  void SearchSaleForProduct(ProductInOrder productInOrder,bool favoriteCustomer)
     {
-        _dal.Sale.ReadAll().ForEach(sale => Console.WriteLine(sale))
-           
-        ;
+       
 
         List<DO.Sale> saleList =_dal.Sale.ReadAll(s =>
      s._productId == productInOrder.productInOrderId &&
@@ -37,7 +35,7 @@ internal class OrderImplementation : BlApi.IOrder
 
     }
 
-    public void CalcTotalPriceForProduct(ProductInOrder productInOrder)
+    public  void CalcTotalPriceForProduct(ProductInOrder productInOrder)
     {
         //List<BO.SaleInProduct>mySales=new List<SaleInProduct>();
         int count = 0;
@@ -48,7 +46,7 @@ internal class OrderImplementation : BlApi.IOrder
         else
         {
             count = productInOrder.quantity;
-
+            productInOrder.finalPrice = 0;
 
             foreach (var item in productInOrder.saleList)
             {
@@ -60,6 +58,7 @@ internal class OrderImplementation : BlApi.IOrder
                     count = count % item.quantityForSale;
                     //mySales.Add(item);
                     productInOrder.finalPrice += (amount * item.quantityForSale * productInOrder.basePrice) - amount * item.Price;
+
                 }
                 Console.WriteLine(count + "count");
             }
@@ -71,7 +70,7 @@ internal class OrderImplementation : BlApi.IOrder
         }
     
     }
-    public void CalcTotalPrice(Order order)
+    public   void CalcTotalPrice(Order order)
     {
         double totalPrice = 0;
         order.ProductList.ForEach((p) => {  totalPrice += p.finalPrice; });
@@ -112,7 +111,7 @@ internal class OrderImplementation : BlApi.IOrder
         CalcTotalPrice(order);
         return productInOrder.saleList;
     }
-    public void DoOrder(Order order)
+    public void DoOrder(Order order)///אחרי הזמנה מעדכנת את הכמיות שנותרו
     {
         order.ProductList.ForEach((p) =>
         {
