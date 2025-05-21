@@ -5,7 +5,7 @@ using Tools;
 
 namespace Dal;
 
-internal class ProductImplementation:Iproduct
+internal class ProductImplementation : Iproduct
 {
     public int Create(Product item)
     {
@@ -26,16 +26,16 @@ internal class ProductImplementation:Iproduct
         Product p = DataSource.products.FirstOrDefault(item => item._id == id);
         if (p != null)
         {
-            
+
             LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצר נקרא בהצלחה");
             return p;
         }
         throw new DalNotFoundId("מוצר זה לא קיים");
     }
-  public  Product? Read(Func<Product, bool> filter)
+    public Product? Read(Func<Product, bool> filter)
     {
-          Product p= DataSource.products.FirstOrDefault(filter);
-        if(p!=null)
+        Product p = DataSource.products.FirstOrDefault(filter);
+        if (p != null)
         {
             LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצר נקרא בהצלחה");
             return p;
@@ -43,7 +43,7 @@ internal class ProductImplementation:Iproduct
         throw new DalNotFoundId("מוצר זה לא קיים");
 
     }
-  public List<Product> ReadAll(Func<Product, bool>? filter = null)
+    public List<Product> ReadAll(Func<Product, bool>? filter = null)
     {
         LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצרים נקראו בהצלחה");
         if (filter == null)
@@ -61,8 +61,8 @@ internal class ProductImplementation:Iproduct
     }
     public void Delete(int id)
     {
-            DataSource.products.Remove(Read(id));
-            LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצר נמחק בהצלחה");
-        
+        DataSource.products.Remove(Read(id));
+        LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "המוצר נמחק בהצלחה");
+
     }
 }

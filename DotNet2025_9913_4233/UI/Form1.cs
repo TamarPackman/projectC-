@@ -32,8 +32,13 @@ namespace UI
 
         private void newOrder_Click(object sender, EventArgs e)
         {
-            club cb=new club();
-            cb.Show();  
+            club cb = new club();
+            cb.Show();
+
+        }
+
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
 
         }
     }

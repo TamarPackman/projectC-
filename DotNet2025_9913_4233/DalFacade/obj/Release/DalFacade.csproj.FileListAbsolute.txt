@@ -1,0 +1,12 @@
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\DalFacade.deps.json
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\DalFacade.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\DalFacade.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalFacade\obj\Release\DalFacade.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalFacade\obj\Release\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalFacade\obj\Release\DalFacade.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalFacade\obj\Release\DalFacade.AssemblyInfo.cs
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalFacade\obj\Release\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalFacade\obj\Release\DalFacade.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalFacade\obj\Release\refint\DalFacade.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalFacade\obj\Release\DalFacade.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalFacade\obj\Release\ref\DalFacade.dll

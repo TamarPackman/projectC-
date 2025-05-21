@@ -14,11 +14,10 @@ internal class CustomerImplementation : Icustomer
             if (DataSource.customers.Any(customer => customer._idCard == item._idCard))
                 throw new DalIdExist("⚠️ שגיאה: לא ניתן להוסיף את המשתמש. משתמש עם אותם פרטים כבר קיים במערכת.\r\nאנא בדוק את הנתונים ונסה שוב או צור קשר עם התמיכה הטכנית.");
             LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "הלקוח התוסף בהצלחה");
-            DataSource.customers.AddWithDb<Customer>(item);
-
+          
             return item._idCard;
         }
-        catch(Exception ex)
+        catch (Exception ex)
         {
             Console.WriteLine(ex.ToString());
         }
@@ -61,7 +60,7 @@ internal class CustomerImplementation : Icustomer
     {
         if (Read(id) != null)
         {
-            DataSource.customers.DeleteDb(Read(id));
+           
             LogManager.writeToLog("DalList", MethodBase.GetCurrentMethod().DeclaringType.FullName, "מחיקת הלקוח  התבצעה בהצלחה");
         }
     }

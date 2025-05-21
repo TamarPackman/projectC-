@@ -508,6 +508,13 @@
           }
         }
       },
+      "Microsoft.NET.Build.Containers/7.0.302": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NET.Build.Containers.props": {},
+          "build/Microsoft.NET.Build.Containers.targets": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/5.0.0": {
         "type": "package",
         "compile": {
@@ -1032,7 +1039,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0",
+          "Microsoft.NET.Build.Containers": "7.0.302"
         },
         "compile": {
           "bin/placeholder/DalFacade.dll": {}
@@ -1045,7 +1053,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0",
+          "Microsoft.NET.Build.Containers": "7.0.302"
         },
         "compile": {
           "bin/placeholder/Tools.dll": {}
@@ -1803,6 +1812,62 @@
         "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.xml",
         "microsoft.identitymodel.tokens.6.21.0.nupkg.sha512",
         "microsoft.identitymodel.tokens.nuspec"
+      ]
+    },
+    "Microsoft.NET.Build.Containers/7.0.302": {
+      "sha512": "aKDuE1mXPvs2IkMqrICz/+wQ8cyem1L02rq3x4ltJBo/FrVOzPw0pLEFocz7A4rF+R3W9wEcvi9jmX9IBOwpOQ==",
+      "type": "package",
+      "path": "microsoft.net.build.containers/7.0.302",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "README.md",
+        "build/Microsoft.NET.Build.Containers.props",
+        "build/Microsoft.NET.Build.Containers.targets",
+        "containerize/Microsoft.DotNet.Cli.Utils.dll",
+        "containerize/Microsoft.NET.Build.Containers.dll",
+        "containerize/Newtonsoft.Json.dll",
+        "containerize/NuGet.Common.dll",
+        "containerize/NuGet.Configuration.dll",
+        "containerize/NuGet.DependencyResolver.Core.dll",
+        "containerize/NuGet.Frameworks.dll",
+        "containerize/NuGet.LibraryModel.dll",
+        "containerize/NuGet.Packaging.dll",
+        "containerize/NuGet.ProjectModel.dll",
+        "containerize/NuGet.Protocol.dll",
+        "containerize/NuGet.Versioning.dll",
+        "containerize/System.CommandLine.dll",
+        "containerize/Valleysoft.DockerCredsProvider.dll",
+        "containerize/containerize.dll",
+        "containerize/containerize.runtimeconfig.json",
+        "microsoft.net.build.containers.7.0.302.nupkg.sha512",
+        "microsoft.net.build.containers.nuspec",
+        "tasks/net472/Microsoft.NET.Build.Containers.dll",
+        "tasks/net472/Newtonsoft.Json.dll",
+        "tasks/net472/NuGet.Common.dll",
+        "tasks/net472/NuGet.Configuration.dll",
+        "tasks/net472/NuGet.DependencyResolver.Core.dll",
+        "tasks/net472/NuGet.Frameworks.dll",
+        "tasks/net472/NuGet.LibraryModel.dll",
+        "tasks/net472/NuGet.Packaging.Core.dll",
+        "tasks/net472/NuGet.Packaging.dll",
+        "tasks/net472/NuGet.ProjectModel.dll",
+        "tasks/net472/NuGet.Protocol.dll",
+        "tasks/net472/NuGet.Versioning.dll",
+        "tasks/net7.0/Microsoft.NET.Build.Containers.deps.json",
+        "tasks/net7.0/Microsoft.NET.Build.Containers.dll",
+        "tasks/net7.0/Newtonsoft.Json.dll",
+        "tasks/net7.0/NuGet.Common.dll",
+        "tasks/net7.0/NuGet.Configuration.dll",
+        "tasks/net7.0/NuGet.DependencyResolver.Core.dll",
+        "tasks/net7.0/NuGet.Frameworks.dll",
+        "tasks/net7.0/NuGet.LibraryModel.dll",
+        "tasks/net7.0/NuGet.Packaging.dll",
+        "tasks/net7.0/NuGet.ProjectModel.dll",
+        "tasks/net7.0/NuGet.Protocol.dll",
+        "tasks/net7.0/NuGet.Versioning.dll",
+        "tasks/net7.0/Valleysoft.DockerCredsProvider.dll"
       ]
     },
     "Microsoft.NETCore.Platforms/5.0.0": {
@@ -3213,6 +3278,7 @@
     "net7.0": [
       "DalFacade >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
+      "Microsoft.NET.Build.Containers >= 7.0.302",
       "Tools >= 1.0.0"
     ]
   },
@@ -3223,11 +3289,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalList\\DalList.csproj",
+      "projectUniqueName": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalList\\DalList.csproj",
       "projectName": "DalList",
-      "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalList\\DalList.csproj",
+      "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalList\\DalList.csproj",
       "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalList\\obj\\",
+      "outputPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3249,11 +3315,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj"
+            "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj"
             },
-            "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\Tools\\Tools.csproj": {
-              "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\Tools\\Tools.csproj"
+            "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\Tools\\Tools.csproj": {
+              "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\Tools\\Tools.csproj"
             }
           }
         }
@@ -3271,6 +3337,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[7.0.0, )"
+          },
+          "Microsoft.NET.Build.Containers": {
+            "target": "Package",
+            "version": "[7.0.302, )"
           }
         },
         "imports": [

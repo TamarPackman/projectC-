@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Product>
-    <_id>1</_id>
-    <_nameProduct>חלב</_nameProduct>
-    <_category>PREMIUM_SERIES</_category>
-    <_price>7</_price>
-    <_quantityInStock>5</_quantityInStock>
-  </Product>
-  <Product>
-    <_id>2</_id>
+    <_id>3</_id>
     <_nameProduct>מלפפון</_nameProduct>
-    <_category>PREMIUM_SERIES</_category>
-    <_price>4</_price>
-    <_quantityInStock>8</_quantityInStock>
+    <_category>Vegetables</_category>
+    <_price>6</_price>
+    <_quantityInStock>3</_quantityInStock>
   </Product>
 </ArrayOfProduct>

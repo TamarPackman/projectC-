@@ -130,7 +130,7 @@ namespace UI
         private void finishOrder_Click(object sender, EventArgs e)
         {
             bl.Order.DoOrder(order);
-            MessageBox.Show("תודה על קניתך לשליחת חשבונית ירוקה נא הכנס כתובת מייל");
+            MessageBox.Show("!תודה על קניתך");
            
 
 

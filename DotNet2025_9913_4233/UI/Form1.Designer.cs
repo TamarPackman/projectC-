@@ -36,10 +36,9 @@
             // 
             // products
             // 
-            products.Location = new Point(490, 98);
-            products.Margin = new Padding(3, 2, 3, 2);
+            products.Location = new Point(560, 131);
             products.Name = "products";
-            products.Size = new Size(113, 57);
+            products.Size = new Size(129, 76);
             products.TabIndex = 0;
             products.Text = "מוצרים";
             products.UseVisualStyleBackColor = true;
@@ -47,10 +46,9 @@
             // 
             // costomers
             // 
-            costomers.Location = new Point(339, 98);
-            costomers.Margin = new Padding(3, 2, 3, 2);
+            costomers.Location = new Point(387, 131);
             costomers.Name = "costomers";
-            costomers.Size = new Size(113, 57);
+            costomers.Size = new Size(129, 76);
             costomers.TabIndex = 1;
             costomers.Text = "לקוחות";
             costomers.UseVisualStyleBackColor = true;
@@ -58,10 +56,9 @@
             // 
             // sales
             // 
-            sales.Location = new Point(178, 98);
-            sales.Margin = new Padding(3, 2, 3, 2);
+            sales.Location = new Point(203, 131);
             sales.Name = "sales";
-            sales.Size = new Size(124, 57);
+            sales.Size = new Size(142, 76);
             sales.TabIndex = 2;
             sales.Text = "מבצעים";
             sales.UseVisualStyleBackColor = true;
@@ -69,10 +66,9 @@
             // 
             // newOrder
             // 
-            newOrder.Location = new Point(25, 258);
-            newOrder.Margin = new Padding(3, 2, 3, 2);
+            newOrder.Location = new Point(29, 344);
             newOrder.Name = "newOrder";
-            newOrder.Size = new Size(126, 54);
+            newOrder.Size = new Size(144, 72);
             newOrder.TabIndex = 3;
             newOrder.Text = "הזמנה חדשה";
             newOrder.UseMnemonic = false;
@@ -81,14 +77,13 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(700, 338);
+            ClientSize = new Size(800, 451);
             Controls.Add(newOrder);
             Controls.Add(sales);
             Controls.Add(costomers);
             Controls.Add(products);
-            Margin = new Padding(3, 2, 3, 2);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;

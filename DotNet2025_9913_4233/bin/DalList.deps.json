@@ -10,6 +10,7 @@
         "dependencies": {
           "DalFacade": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0",
+          "Microsoft.NET.Build.Containers": "7.0.302",
           "Tools": "1.0.0"
         },
         "runtime": {
@@ -360,6 +361,7 @@
           }
         }
       },
+      "Microsoft.NET.Build.Containers/7.0.302": {},
       "Microsoft.NETCore.Platforms/5.0.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
       "Microsoft.SqlServer.Server/1.0.0": {
@@ -610,7 +612,8 @@
       },
       "DalFacade/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0",
+          "Microsoft.NET.Build.Containers": "7.0.302"
         },
         "runtime": {
           "DalFacade.dll": {}
@@ -618,7 +621,8 @@
       },
       "Tools/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0",
+          "Microsoft.NET.Build.Containers": "7.0.302"
         },
         "runtime": {
           "Tools.dll": {}
@@ -827,6 +831,13 @@
       "sha512": "sha512-AAEHZvZyb597a+QJSmtxH3n2P1nIJGpZ4Q89GTenknRx6T6zyfzf592yW/jA5e8EHN4tNMjjXHQaYWEq5+L05w==",
       "path": "microsoft.identitymodel.tokens/6.21.0",
       "hashPath": "microsoft.identitymodel.tokens.6.21.0.nupkg.sha512"
+    },
+    "Microsoft.NET.Build.Containers/7.0.302": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aKDuE1mXPvs2IkMqrICz/+wQ8cyem1L02rq3x4ltJBo/FrVOzPw0pLEFocz7A4rF+R3W9wEcvi9jmX9IBOwpOQ==",
+      "path": "microsoft.net.build.containers/7.0.302",
+      "hashPath": "microsoft.net.build.containers.7.0.302.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/5.0.0": {
       "type": "package",

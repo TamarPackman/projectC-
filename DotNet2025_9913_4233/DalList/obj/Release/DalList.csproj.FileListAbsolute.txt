@@ -1,0 +1,13 @@
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\DalList.deps.json
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\DalList.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\DalList.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalList\obj\Release\DalList.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalList\obj\Release\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalList\obj\Release\DalList.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalList\obj\Release\DalList.AssemblyInfo.cs
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalList\obj\Release\DalList.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalList\obj\Release\DalList.csproj.CopyComplete
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalList\obj\Release\DalList.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalList\obj\Release\refint\DalList.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalList\obj\Release\DalList.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\DalList\obj\Release\ref\DalList.dll

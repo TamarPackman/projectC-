@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalXml\\DalXml.csproj": {}
+    "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalXml\\DalXml.csproj": {}
   },
   "projects": {
-    "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
+    "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj",
+        "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj",
         "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\obj\\",
+        "outputPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Build.Containers": {
+              "target": "Package",
+              "version": "[7.0.302, )"
             }
           },
           "imports": [
@@ -70,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalXml\\DalXml.csproj": {
+    "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalXml\\DalXml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalXml\\DalXml.csproj",
+        "projectUniqueName": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalXml\\DalXml.csproj",
         "projectName": "DalXml",
-        "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalXml\\DalXml.csproj",
+        "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalXml\\DalXml.csproj",
         "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalXml\\obj\\",
+        "outputPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalXml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +103,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj"
               }
             }
           }
@@ -114,6 +118,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Build.Containers": {
+              "target": "Package",
+              "version": "[7.0.302, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

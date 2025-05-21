@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\BlTest\\BlTest.csproj": {}
+    "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\BlTest\\BlTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\BlTest\\BlTest.csproj": {
+    "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\BlTest\\BlTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\BlTest\\BlTest.csproj",
+        "projectUniqueName": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\BlTest\\BlTest.csproj",
         "projectName": "BlTest",
-        "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\BlTest\\BlTest.csproj",
+        "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\BlTest\\BlTest.csproj",
         "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\BlTest\\obj\\",
+        "outputPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\BlTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\BL\\BL.csproj": {
-                "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\BL\\BL.csproj"
+              "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\BL\\BL.csproj": {
+                "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\BL\\BL.csproj"
               },
-              "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalTest\\DalTest.csproj": {
-                "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalTest\\DalTest.csproj"
+              "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalTest\\DalTest.csproj": {
+                "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalTest\\DalTest.csproj"
               }
             }
           }
@@ -55,6 +55,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Build.Containers": {
+              "target": "Package",
+              "version": "[7.0.302, )"
             }
           },
           "imports": [
@@ -77,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\BL\\BL.csproj": {
+    "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\BL\\BL.csproj",
+        "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\BL\\BL.csproj",
         "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\BL\\obj\\",
+        "outputPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,11 +110,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalList\\DalList.csproj": {
-                "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalList\\DalList.csproj"
+              "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalList\\DalList.csproj": {
+                "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalList\\DalList.csproj"
               }
             }
           }
@@ -128,6 +132,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Build.Containers": {
+              "target": "Package",
+              "version": "[7.0.302, )"
             }
           },
           "imports": [
@@ -150,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
+    "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj",
+        "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj",
         "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\obj\\",
+        "outputPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,6 +202,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Build.Containers": {
+              "target": "Package",
+              "version": "[7.0.302, )"
             }
           },
           "imports": [
@@ -216,14 +228,14 @@
         }
       }
     },
-    "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalList\\DalList.csproj": {
+    "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalList\\DalList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalList\\DalList.csproj",
+        "projectUniqueName": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalList\\DalList.csproj",
         "projectName": "DalList",
-        "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalList\\DalList.csproj",
+        "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalList\\DalList.csproj",
         "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalList\\obj\\",
+        "outputPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -245,11 +257,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\Tools\\Tools.csproj"
+              "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\Tools\\Tools.csproj"
               }
             }
           }
@@ -267,6 +279,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Build.Containers": {
+              "target": "Package",
+              "version": "[7.0.302, )"
             }
           },
           "imports": [
@@ -289,14 +305,14 @@
         }
       }
     },
-    "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalTest\\DalTest.csproj": {
+    "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalTest\\DalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalTest\\DalTest.csproj",
+        "projectUniqueName": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalTest\\DalTest.csproj",
         "projectName": "DalTest",
-        "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalTest\\DalTest.csproj",
+        "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalTest\\DalTest.csproj",
         "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalTest\\obj\\",
+        "outputPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -318,11 +334,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\Tools\\Tools.csproj"
+              "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\Tools\\Tools.csproj"
               }
             }
           }
@@ -340,6 +356,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Build.Containers": {
+              "target": "Package",
+              "version": "[7.0.302, )"
             }
           },
           "imports": [
@@ -362,14 +382,14 @@
         }
       }
     },
-    "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\Tools\\Tools.csproj": {
+    "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\Tools\\Tools.csproj",
+        "projectUniqueName": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\Tools\\Tools.csproj",
+        "projectPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\Tools\\Tools.csproj",
         "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\This User\\Desktop\\_lastVersionDB\\projectC__main\\DotNet2025_9913_4233\\Tools\\obj\\",
+        "outputPath": "C:\\Users\\This User\\Desktop\\c#\\פרויקט\\DotNet2025_9913_4233\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -406,6 +426,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Build.Containers": {
+              "target": "Package",
+              "version": "[7.0.302, )"
             }
           },
           "imports": [

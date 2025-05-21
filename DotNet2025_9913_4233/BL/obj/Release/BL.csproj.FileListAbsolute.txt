@@ -1,0 +1,13 @@
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\BL.deps.json
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\BL.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\BL.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BL\obj\Release\BL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BL\obj\Release\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BL\obj\Release\BL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BL\obj\Release\BL.AssemblyInfo.cs
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BL\obj\Release\BL.csproj.CopyComplete
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BL\obj\Release\BL.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BL\obj\Release\refint\BL.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BL\obj\Release\BL.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\BL\obj\Release\ref\BL.dll

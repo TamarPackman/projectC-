@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <_idCard>327609913</_idCard>
+    <_phone>0534161926</_phone>
+    <_address>חזון דוד 21</_address>
+    <_customerName>תמי פקמן</_customerName>
+  </Customer>
+</ArrayOfCustomer>

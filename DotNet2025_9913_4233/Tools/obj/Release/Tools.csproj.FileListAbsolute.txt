@@ -1,0 +1,12 @@
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\Tools.deps.json
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\Tools.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\bin\Tools.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\Tools\obj\Release\Tools.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\Tools\obj\Release\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\Tools\obj\Release\Tools.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\Tools\obj\Release\Tools.AssemblyInfo.cs
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\Tools\obj\Release\Tools.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\Tools\obj\Release\refint\Tools.dll
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\Tools\obj\Release\Tools.pdb
+C:\Users\This User\Desktop\_lastVersionDB\projectC__main\DotNet2025_9913_4233\Tools\obj\Release\ref\Tools.dll

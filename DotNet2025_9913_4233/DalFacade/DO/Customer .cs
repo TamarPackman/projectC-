@@ -13,7 +13,7 @@ namespace DO
        
 
 
-        //ctor func
+   
         public Customer():this(0,"","","")
         {
 
